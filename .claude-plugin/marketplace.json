@@ -1,0 +1,37 @@
+{
+  "name": "aicut-skills",
+  "owner": {
+    "name": "aicut",
+    "url": "https://www.aicut.pro"
+  },
+  "metadata": {
+    "description": "Skills that let a coding agent make AI video, images, audio and story episodes with the aicut CLI, pricing every job and asking before it spends tokens."
+  },
+  "plugins": [
+    {
+      "name": "aicut",
+      "source": "./",
+      "description": "Skills that let a coding agent make AI video, images, audio and story episodes with the aicut CLI, pricing every job and asking before it spends tokens.",
+      "version": "0.1.0",
+      "author": {
+        "name": "aicut",
+        "url": "https://www.aicut.pro"
+      },
+      "homepage": "https://www.aicut.pro/mcp",
+      "repository": "https://github.com/aicut-pro/skills",
+      "license": "MIT",
+      "keywords": [
+        "aicut",
+        "ai-video",
+        "ai-image",
+        "text-to-video",
+        "text-to-speech",
+        "short-form-video",
+        "tiktok",
+        "cli",
+        "skills"
+      ],
+      "category": "media"
+    }
+  ]
+}
