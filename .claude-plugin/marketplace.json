@@ -12,7 +12,7 @@
       "name": "aicut",
       "source": "./",
       "description": "Skills that let a coding agent make AI video, images, audio and story episodes with the aicut CLI, pricing every job and asking before it spends tokens.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "aicut",
         "url": "https://www.aicut.pro"
