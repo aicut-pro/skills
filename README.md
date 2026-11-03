@@ -24,6 +24,7 @@ aicut login
 | `aicut-niche-run` | Make a video from a trend format |
 | `aicut-fake-text` | Make a fake-text chat video |
 | `aicut-image-story` | Make an AI image story video |
+| `aicut-explainer` | Make an explainer video |
 | `aicut-talking-avatar` | Make a talking avatar |
 | `aicut-motion-control` | Copy a video's motion onto a character |
 
