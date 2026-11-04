@@ -25,6 +25,7 @@ aicut login
 | `aicut-fake-text` | Make a fake-text chat video |
 | `aicut-image-story` | Make an AI image story video |
 | `aicut-explainer` | Make an explainer video |
+| `aicut-explainer-studio` | Explainer Studio: what-if shorts drawn in code |
 | `aicut-talking-avatar` | Make a talking avatar |
 | `aicut-motion-control` | Copy a video's motion onto a character |
 
